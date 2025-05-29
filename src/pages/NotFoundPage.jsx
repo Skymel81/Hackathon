@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import "./NotFoundPage.css";
+import "../css/NotFoundPage.css";
 import logo from "../assets/icons/lotus-tattoo-5084493_640.png"
 
 

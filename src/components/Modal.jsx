@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./Modal.css";
+import "../css/Modal.css";
 import cross from '/src/assets/icons/cross-mark-304374_640.png';
 
 export default function Modal({ puzzle, setModaleIsVisible, setVisibleTiles }) {
