@@ -109,7 +109,7 @@ export default function Accueil() {
             Made with 🩷 and 😂 by{" "}
             <a
               className="credits__link"
-              href="https://github.com/TheoSkymel"
+              href="https://github.com/Skymel81"
               target="_blank"
             >
               Théo
